@@ -2,11 +2,11 @@
 
 Bill of Materials (BOM)
 
-- USB-C
-- MicroSD
-- TPS63070
-- LMR51430
-- BQ25883
-- STM32F722RETx
-- ICM-45686
-- BMP580
+- USB-C: Connector Port
+- MicroSD: Memory Storage
+- TPS63070: Buck-Boost Regulator
+- LMR51430: Step-Down Regulator
+- BQ25883: Battery Charger
+- STM32F722RETx: Main Microcontroller
+- ICM-45686: IMU Sensor (tracks motion/orientation)
+- BMP580: Barometric Altimeter (tracks altitude/pressure)
