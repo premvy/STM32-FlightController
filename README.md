@@ -13,4 +13,3 @@ Bill of Materials (BOM)
 
 ## Schematic
 
-![Flight Controller Schematic](schematic.png)
