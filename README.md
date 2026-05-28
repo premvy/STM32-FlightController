@@ -13,5 +13,6 @@ Bill of Materials (BOM)
 
 ## Schematic
 
-<img width="892" height="641" alt="image" src="https://github.com/user-attachments/assets/a7af2719-44da-464d-a34b-ed438552c2da" />
+<img width="2277" height="1568" alt="image" src="https://github.com/user-attachments/assets/9841681a-46cd-432e-b6f0-e6bb7e4525e1" />
+
 
