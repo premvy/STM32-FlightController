@@ -12,3 +12,5 @@ Bill of Materials (BOM)
 - BMP580: Barometric Altimeter (tracks altitude/pressure)
 
 ## Schematic
+
+![Flight Controller Schematic](schematic.png)
