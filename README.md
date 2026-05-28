@@ -10,3 +10,5 @@ Bill of Materials (BOM)
 - STM32F722RETx: Main Microcontroller
 - ICM-45686: IMU Sensor (tracks motion/orientation)
 - BMP580: Barometric Altimeter (tracks altitude/pressure)
+
+## Schematic
