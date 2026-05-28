@@ -11,4 +11,4 @@ Bill of Materials (BOM)
 - ICM-45686: IMU Sensor (tracks motion/orientation)
 - BMP580: Barometric Altimeter (tracks altitude/pressure)
 
-### Schematic
+## Schematic
