@@ -1,15 +1,15 @@
 # STM32 Rocket Flight Controller
 
-Bill of Materials (BOM)
+## 3d Model 
 
-- USB-C: Connector Port
-- MicroSD: Memory Storage
-- TPS63070: Buck-Boost Regulator
-- LMR51430: Step-Down Regulator
-- BQ25883: Battery Charger
-- STM32F722RETx: Main Microcontroller
-- ICM-45686: IMU Sensor (tracks motion/orientation)
-- BMP580: Barometric Altimeter (tracks altitude/pressure)
+
+<img width="907" height="908" alt="image" src="https://github.com/user-attachments/assets/f16a3b5f-1eb0-4997-b119-784a277654f3" />
+
+<img width="648" height="724" alt="image" src="https://github.com/user-attachments/assets/4f7aeab1-082c-421a-921f-561ad5a54318" />
+
+
+<img width="630" height="700" alt="image" src="https://github.com/user-attachments/assets/81112d13-a7ee-4a6e-ae6f-d70e0aae1eaf" />
+
 
 ## Schematic
 
@@ -21,3 +21,4 @@ Bill of Materials (BOM)
 * **Power:** USB-C connectivity, BQ-series battery charging, a clean 3.3V logic rail, and a 5V buck-boost rail for servos and ESCs.
 * **Data Logging:** Dedicated 4-bit microSD slot for high-speed flight recording.
 * **I/O:** 3-pin PWM motor headers and hardware `BOOT` / `RESET` buttons.
+
