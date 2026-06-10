@@ -22,3 +22,4 @@ _Custom PCB routed in Kicad_
 * **Data Logging:** Dedicated 4-bit microSD slot for high-speed flight recording.
 * **I/O:** 3-pin PWM motor headers and hardware `BOOT` / `RESET` buttons.
 
+[View the Bill of Materials and Production Files](./production)
