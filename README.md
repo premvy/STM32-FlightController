@@ -9,6 +9,8 @@ This project is a custom-designed, two-layer flight controller built to serve as
 
 <img width="630" height="700" alt="image" src="https://github.com/user-attachments/assets/81112d13-a7ee-4a6e-ae6f-d70e0aae1eaf" />
 
+_Custom PCB routed in Kicad_
+
 ## Schematic
 
 <img width="2277" height="1568" alt="image" src="https://github.com/user-attachments/assets/9841681a-46cd-432e-b6f0-e6bb7e4525e1" />
