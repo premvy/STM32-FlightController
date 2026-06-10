@@ -2,7 +2,8 @@
 
 ## PCB design 
 
-<img width="679" height="682" alt="image" src="https://github.com/user-attachments/assets/454ad3e1-158d-4756-a4ac-006d6de99bab" />
+
+<img width="615" height="649" alt="image" src="https://github.com/user-attachments/assets/651189a1-e600-4357-a4d0-fea4e383fb3f" />
 
 
 <img width="630" height="700" alt="image" src="https://github.com/user-attachments/assets/81112d13-a7ee-4a6e-ae6f-d70e0aae1eaf" />
