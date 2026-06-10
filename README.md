@@ -1,7 +1,7 @@
 # Custom STM32  Flight Controller
 
 ## Description 
-This project is a custom-designed, two-layer flight controller built from the ground up to serve as the central brain for a drone prototype. The board is driven by an STM32F722RET6 microcontroller, providing the high-speed processing headroom required for low-latency PID loops and complex fluid dynamics. The hardware stack features an ICM-42688 6-axis IMU, a BMP580 barometer for precision altitude hold, and a dedicated microSD slot for high-rate Blackbox data logging. Power delivery is managed through a modern USB-C interface, paired with a BQ-series battery management IC and a clean 5V buck-boost circuit to safely drive servos and ESCs. Beyond just getting a vehicle in the air, this board was designed to push a concept from a raw schematic into a fully manufactured physical product.
+This project is a custom-designed, two-layer flight controller built to serve as the central brain for a drone prototype. The board is driven by an STM32F722RET6 microcontroller, providing the high-speed processing headroom required for low-latency PID loops and complex fluid dynamics. The hardware stack features an ICM-42688 6-axis IMU, a BMP580 barometer for precision altitude hold, and a dedicated microSD slot for high-rate Blackbox data logging. Power delivery is managed through a modern USB-C interface, paired with a BQ-series battery management IC and a clean 5V buck-boost circuit to safely drive servos and ESCs. Beyond just getting a vehicle in the air, this board was designed to push a concept from a raw schematic into a fully manufactured physical product.
 
 ## PCB design 
 
