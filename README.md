@@ -5,7 +5,7 @@ This project is a custom designed, two layer flight controller built to serve as
 
 My main motivation for this project is to build a hybrid UAV drone. I feel like to actually understand what goes into the drone, I had to take a step back, learn how the flight controller works, and build one of my own. 
 
-Instead of rushing the process of building the drone by just getting parts on aftermarket places, I wanted to build it from the ground up. Doing it this way means I don't just have a working drone at the end—I actually know exactly what's happening under the hood rather than just plugging in pre-built stuff and calling it a day.
+Instead of rushing the process of building the drone by just getting parts on aftermarket places, I wanted to build it from the ground up. Doing it this way means I don't just have a working drone at the end, I actually know exactly what's happening under the hood rather than just plugging in pre-built stuff and calling it a day.
 
 ## PCB design 
 
