@@ -3,6 +3,10 @@
 ## Description 
 This project is a custom designed, two layer flight controller built to serve as the central brain for a drone prototype. The board is driven by an STM32F722RET6 microcontroller, providing the high-speed processing headroom required for low latency PID loops. The hardware stack features an ICM-42688 6-axis IMU, a BMP580 barometer for precision altitude hold, and a dedicated microSD slot for high rate Blackbox data logging. Power delivery is managed through a modern USB-C interface, paired with a BQ series battery management IC and a clean 5V buck-boost circuit to safely drive servos and ESCs. Beyond just getting a vehicle in the air, this board was designed to push a concept from a raw schematic into a fully manufactured physical product.
 
+My main motivation for this project is to build a hybrid UAV drone. I feel like to actually understand what goes into the drone, I had to take a step back, learn how the flight controller works, and build one of my own. 
+
+Instead of rushing the process of building the drone by just getting parts on aftermarket places, I wanted to build it from the ground up. Doing it this way means I don't just have a working drone at the end—I actually know exactly what's happening under the hood rather than just plugging in pre-built stuff and calling it a day.
+
 ## PCB design 
 
 <img width="615" height="649" alt="image" src="https://github.com/user-attachments/assets/651189a1-e600-4357-a4d0-fea4e383fb3f" />
