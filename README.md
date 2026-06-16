@@ -7,6 +7,9 @@ My main motivation for this project is to build a hybrid UAV drone. I feel like 
 
 Instead of rushing the process of building the drone by just getting parts on aftermarket places, I wanted to build it from the ground up. Doing it this way means I don't just have a working drone at the end, I actually know exactly what's happening under the hood rather than just plugging in pre-built stuff and calling it a day.
 
+BOM chart link below 
+[View the Bill of Materials (BOM)](./production/bom.csv)
+
 ## PCB design 
 
 <img width="615" height="649" alt="image" src="https://github.com/user-attachments/assets/651189a1-e600-4357-a4d0-fea4e383fb3f" />
@@ -25,5 +28,3 @@ _Custom PCB routed in Kicad_
 * **Power:** USB-C connectivity, BQ-series battery charging, a clean 3.3V logic rail, and a 5V buck-boost rail for servos and ESCs.
 * **Data Logging:** Dedicated 4-bit microSD slot for high-speed flight recording.
 * **I/O:** 3-pin PWM motor headers and hardware `BOOT` / `RESET` buttons.
-
-[View the Bill of Materials (BOM)](./production/bom.csv)
