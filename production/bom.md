@@ -56,4 +56,4 @@
   - Packaging: $0.49
 - **Total: $172.75** (before shipping &rarr; ~$200 delivered)
 
-> **Note on scaling:** This is a prototype-run cost, not a per-unit cost. Roughly **$82.73** of the total is one-time non-recurring setup &mdash; setup fee ($25.56), stencil ($8.21), and feeder loading ($48.96) &mdash; which does not repeat on follow-up orders. The two-board minimum is why the $62.66 component line is ~2x the $30.43 per-board BOM subtotal above. The marginal cost of additional boards is substantially lower once the line is set up.
+> **Note on scaling:** This is a run cost, not a per-unit cost. Roughly **$82.73** of the total is one-time non-recurring setup &mdash; setup fee ($25.56), stencil ($8.21), and feeder loading ($48.96) &mdash; which does not repeat on follow-up orders. The two-board minimum is why the $62.66 component line is ~2x the $30.43 per-board BOM subtotal above. The marginal cost of additional boards is substantially lower once the line is set up.
