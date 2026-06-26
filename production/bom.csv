@@ -39,3 +39,22 @@ USB1,USB-C 16P 2MD,1,Type-C,C2765186,0.400,0.40
 X1,CRYSTAL-SMD 4P,1,X322525MOB4SI 25MHz,C9006,0.350,0.35
 X2,FC-135R,1,Q13FC1350000400 32.768kHz,C32346,0.300,0.30
 ,,,,,Component subtotal,30.43
+
+**Component subtotal (per board): ≈ $30.43**
+
+### Full Prototype Cost (JLCPCB, 2-board minimum run)
+
+| Item | Cost (USD) |
+|---|---|
+| PCB | $18.46 |
+| Setup fee | $25.56 |
+| Stencil | $8.21 |
+| Components (32 items, ×2 boards) | $62.66 |
+| Feeder loading fee | $48.96 |
+| SMT assembly | $1.85 |
+| X-ray inspection | $6.56 |
+| Packaging | $0.49 |
+| **Total (before shipping)** | **$172.75** |
+| **Total (delivered, est.)** | **~$200** |
+
+> **Note on scaling:** This is a *prototype-run* cost, not a per-unit cost. Roughly **$82.73** of the total is one-time non-recurring engineering/setup — setup fee ($25.56), stencil ($8.21), and feeder loading ($48.96) — which does not repeat on follow-up orders. The two-board minimum is why the $62.66 component line is ~2× the $30.43 per-board BOM subtotal above. The marginal cost of additional boards is substantially lower once the line is set up.
