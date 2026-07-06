@@ -11,6 +11,8 @@ Bill of Material listed at the end
 
 ## PCB design 
 
+<img width="1089" height="1161" alt="image" src="https://github.com/user-attachments/assets/5383202c-63fe-445d-a779-47d55e8a513e" />
+
 <img width="615" height="649" alt="image" src="https://github.com/user-attachments/assets/651189a1-e600-4357-a4d0-fea4e383fb3f" />
 
 <img width="630" height="700" alt="image" src="https://github.com/user-attachments/assets/81112d13-a7ee-4a6e-ae6f-d70e0aae1eaf" />
