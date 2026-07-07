@@ -13,9 +13,7 @@ Bill of Material listed at the end
 
 <img width="1132" height="1247" alt="image" src="https://github.com/user-attachments/assets/60570cfd-b0f7-41e0-9194-e53c367f48d5" />
 
-<img width="615" height="649" alt="image" src="https://github.com/user-attachments/assets/651189a1-e600-4357-a4d0-fea4e383fb3f" />
-
-<img width="630" height="700" alt="image" src="https://github.com/user-attachments/assets/81112d13-a7ee-4a6e-ae6f-d70e0aae1eaf" />
+<img width="1726" height="1731" alt="image" src="https://github.com/user-attachments/assets/162fdb4e-1847-43e5-aac3-48253444f395" />
 
 _Custom PCB routed in Kicad_
 
